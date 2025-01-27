@@ -69,7 +69,8 @@ In this application, we explore a dataset from UCI Machine Learning Repository .
      <img src="images/education_age.png" alt="Alt text" width="800" height="500"> 
      
 *  The heatmap visually represents the correlation between the selected variables with values ranging from -1 to 1, where darker colors indicate stronger correlations and lighter colors represent weaker correlations.  <br />
-      <img src="images/campaignheatMap.png" alt="Alt text" width="1000" height="500">  
+            * Correlations
+    <img src="images/campaignheatmap.png" alt="Alt text" width="1000" height="500">  
        
      
 
